@@ -107,17 +107,17 @@ Docker Swarm • Automation • Scalable Infrastructure
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
 
 <div style="flex: 1; min-width: 200px;">
-<img src="https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=false&bg_color=ffffff&title_color=2E3440&text_color=2E3440&icon_color=4ECDC4&custom_title=Development%20Activity" width="100%" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=false&bg_color=f8f9fa&title_color=2E3440&text_color=4A5568&icon_color=4ECDC4&custom_title=Development%20Activity" width="100%" height="150"/>
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=2E3440&text_color=2E3440&hide_title=false" width="100%" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&hide_border=true&theme=default&bg_color=f8f9fa&title_color=2E3440&text_color=4A5568&hide_title=false" width="100%" height="150"/>
 </div>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abraham-developer&theme=default&bg_color=ffffff&hide_border=true&area=true&area_color=4ECDC4&height=200&custom_title=Contribution%20Graph&color=2E3440" width="85%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abraham-developer&theme=default&bg_color=f8f9fa&hide_border=true&area=true&area_color=4ECDC4&height=200&custom_title=Contribution%20Graph&color=2E3440" width="85%"/>
 </div>
 
 ---
