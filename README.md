@@ -1,79 +1,104 @@
-# 👋 Hi, I’m **Abraham Rivera**  
-**Software Engineer • Full‑Stack • Cloud‑Native • AI‑Enabled**
+👋 Hi, I'm Abraham Rivera
+Software Engineer • Full-Stack • Cloud-Native • AI-Enabled
 
-[![GitHub followers](https://img.shields.io/github/followers/abraham-developer?label=Followers&style=social)](https://github.com/abraham-developer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
+GitHub followers
 
+LinkedIn
 
----
+Email
 
-## 🎬 Quick demo
+🎬 Quick Demo
+📺 Click to watch a 10-second animation of my stack in action
+👓 About Me
+I transform raw data into actionable insights through elegant software solutions.
+My expertise bridges .NET Core and Go microservices with modern React+TypeScript and Angular frontends, all built on clean architecture principles, enhanced by n8n automation, and powered by vector-based semantic search (pgvector + OpenAI embeddings).
 
-<details>
-  <summary>Click to watch a 10‑second animation of my stack in action</summary>
+Currently exploring:
 
-  <p align="center">
-    <!-- Put your GIF in the repo under `assets/` and commit it -->
-    <img src="assets/profile-demo.gif" alt="Demo animation (API ↔ UI ↔ Vector Search)" width="800"/>
-  </p>
-</details>
+📈 Scalable cloud-native architectures (Docker, Kubernetes, GitHub Actions)
+🤖 AI-enhanced features – embeddings, relevance ranking, recommendation engines
+🛠️ DevOps automation – infrastructure-as-code, GitOps workflows
+🛠️ Tech Stack
+Backend & APIs
+.NET Core
 
----
+Go
 
-## 👓 About me  
+WebAPI
 
-I love turning raw data into actionable insight.  
-My day‑to‑day work blends **.NET Core** and **Go** micro‑services with **React + TypeScript** / **Angular** front‑ends, all tied together by **clean‑architecture** principles, **n8n** automation, and **vector‑based semantic search** (pgvector + OpenAI embeddings).  
+gRPC
 
-I’m constantly experimenting with:
+Frontend & UI
+React
 
-* 📈 Scalable cloud‑native architectures (Docker, Kubernetes, GitHub Actions)  
-* 🤖 AI‑enhanced features – embeddings, relevance ranking, recommendation engines  
-* 🛠️ DevOps automation – pipelines‑as‑code, infrastructure‑as‑code (Terraform)  
+TypeScript
 
----
+Angular
 
-## 🛠️ Tech stack (what I use most)
+Redux
 
-| Category | Tools / Frameworks | Icons |
-|----------|-------------------|------|
-| **Backend** | .NET Core (WebAPI, EF Core) • Go (Gin) | ![dotnet](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white) ![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| **Frontend** | React + TypeScript • Angular | ![react](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) |
-| **Databases** | SQL Server • PostgreSQL (pgvector) | ![sqlserver](https://img.shields.io/badge/SQL%20Server-0078D4?logo=microsoftsqlserver&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Automation** | n8n • GitHub Actions | ![n8n](https://img.shields.io/badge/n8n-2B8A3E?logo=n8n&logoColor=white) ![githubactions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) |
-| **AI / Search** | OpenAI embeddings • pgvector | ![openai](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) |
-| **Container / Orchestration** | Docker • Docker‑Compose • Docker swarm | ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+Databases & Storage
+SQL Server
 
+PostgreSQL
 
----
+pgvector
 
-## 📈 GitHub stats  
+AI & Machine Learning
+OpenAI
 
-![Abraham’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=radical&hide_border=true)  
+Embeddings
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&theme=radical&hide_border=true)
+DevOps & Cloud
+Docker
 
----
+Kubernetes
 
-## 📂 Selected projects  
+GitHub Actions
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Semantic‑Search‑API** | REST + gRPC API that stores documents in PostgreSQL + pgvector and returns similarity‑ranked results using OpenAI embeddings. | .NET Core, Go, PostgreSQL, pgvector, OpenAI |
-| **n8n‑Automation‑Hub** | Centralised workflow engine that synchronises data between SQL Server and a SaaS CRM, sends Slack notifications and triggers CI builds. | n8n, Docker, GitHub Actions |
-| **React‑TS Dashboard** | Real‑time analytics dashboard with lazy‑loaded modules, Redux Toolkit state management and dark‑mode support. | React, TypeScript, Redux Toolkit, Chart.js |
-| **Angular‑E‑Commerce** | Full‑stack e‑commerce prototype with JWT auth, Stripe integration and server‑side rendering (SSR). | Angular, .NET Core, SQL Server |
+Terraform
 
+Automation & Tools
+n8n
 
----
+Slack
 
-## 📬 Get in touch  
+📈 GitHub Analytics
+<div align="center">
 
-- **LinkedIn**: <https://linkedin.com/in/angel-abraham-rivera-2aa977331>  
-- **Email**: <desarrollo@abrahamdev.net>  
+Abraham&#39;s GitHub Stats
 
-Feel free to open an issue, send a PR, or just say hello!  
+Top Languages
 
----  
+GitHub Streak
 
-*“Engineering clean, data‑driven solutions that scale – from code to cloud.”*  
+</div>
+
+🚀 Featured Projects
+Semantic Search API
+REST + gRPC API for document storage and similarity-based retrieval using OpenAI embeddings 
+
+Tech: .NET Core, Go, PostgreSQL, pgvector, OpenAI
+Features: Vector embeddings, similarity ranking, multi-protocol support
+n8n Automation Hub
+Centralized workflow engine for data synchronization and CI/CD triggers 
+
+Tech: n8n, Docker, GitHub Actions, SQL Server
+Features: CRM integration, Slack notifications, automated deployments
+React TypeScript Dashboard
+Real-time analytics dashboard with modular architecture 
+
+Tech: React, TypeScript, Redux Toolkit, Chart.js
+Features: Lazy loading, dark mode, real-time updates
+Angular E-Commerce Platform
+Full-stack e-commerce solution with payment integration 
+
+Tech: Angular, .NET Core, SQL Server, Stripe
+Features: JWT authentication, server-side rendering, payment processing
+📬 Let's Connect
+💼 LinkedIn: angel-abraham-rivera-2aa977331
+📧 Email: desarrollo@abrahamdev.net
+🐙 GitHub: abraham-developer
+Open to collaborations, interesting challenges, and tech discussions!
+
+"Engineering clean, data-driven solutions that scale – from code to cloud." 
