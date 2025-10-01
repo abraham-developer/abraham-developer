@@ -42,8 +42,8 @@ I’m constantly experimenting with:
 | **Databases** | SQL Server • PostgreSQL (pgvector) | ![sqlserver](https://img.shields.io/badge/SQL%20Server-0078D4?logo=microsoftsqlserver&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
 | **Automation** | n8n • GitHub Actions | ![n8n](https://img.shields.io/badge/n8n-2B8A3E?logo=n8n&logoColor=white) ![githubactions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) |
 | **AI / Search** | OpenAI embeddings • pgvector | ![openai](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) |
-| **Container / Orchestration** | Docker • Docker‑Compose • Kubernetes | ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-| **Testing** | xUnit • Jest • Cypress | ![xunit](https://img.shields.io/badge/xUnit-007ACC?logo=.net&logoColor=white) ![jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) |
+| **Container / Orchestration** | Docker • Docker‑Compose • Docker swarm | ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+
 
 ---
 
