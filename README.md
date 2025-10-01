@@ -42,22 +42,22 @@
 ### **Core Competencies**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 25px 0;">
 
-<div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 4px solid #512BD4;">
+<div style="background: #1a1a2e; padding: 15px; border-radius: 10px; border-left: 4px solid #512BD4;">
 **Backend Excellence**  
 .NET Core • Go • Microservices • API Design
 </div>
 
-<div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 4px solid #61DAFB;">
+<div style="background: #1a1a2e; padding: 15px; border-radius: 10px; border-left: 4px solid #61DAFB;">
 **Frontend Innovation**  
 React/TypeScript • Angular • Real-time UI
 </div>
 
-<div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 4px solid #412991;">
+<div style="background: #1a1a2e; padding: 15px; border-radius: 10px; border-left: 4px solid #412991;">
 **AI & Data Intelligence**  
 OpenAI • Vector Search • Semantic Analysis
 </div>
 
-<div style="background: #f8f9fa; padding: 15px; border-radius: 10px; border-left: 4px solid #2496ED;">
+<div style="background: #1a1a2e; padding: 15px; border-radius: 10px; border-left: 4px solid #2496ED;">
 **Cloud & DevOps**  
 Docker Swarm • Automation • Scalable Infrastructure
 </div>
@@ -107,17 +107,17 @@ Docker Swarm • Automation • Scalable Infrastructure
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
 
 <div style="flex: 1; min-width: 200px;">
-<img src="https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=false&bg_color=f8f9fa&title_color=2E3440&text_color=4A5568&icon_color=4ECDC4&custom_title=Development%20Activity" width="100%" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_title=false&bg_color=0d1117&title_color=4ECDC4&text_color=8b949e&icon_color=4ECDC4&custom_title=Development%20Activity" width="100%" height="150"/>
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&hide_border=true&theme=default&bg_color=f8f9fa&title_color=2E3440&text_color=4A5568&hide_title=false" width="100%" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=4ECDC4&text_color=8b949e&hide_title=false" width="100%" height="150"/>
 </div>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abraham-developer&theme=default&bg_color=f8f9fa&hide_border=true&area=true&area_color=4ECDC4&height=200&custom_title=Contribution%20Graph&color=2E3440" width="85%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abraham-developer&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=4ECDC4&height=200&custom_title=Contribution%20Graph&color=8b949e" width="85%"/>
 </div>
 
 ---
@@ -166,7 +166,7 @@ Docker Swarm • Automation • Scalable Infrastructure
 
 </div>
 
-<div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); color: white; padding: 20px; border-radius: 12px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #1a1a2e, #16213e); color: white; padding: 20px; border-radius: 12px; margin: 20px 0; border: 1px solid #4ECDC4;">
 <h3 style="margin: 0; color: white;">🚀 Ready to Build Something Amazing?</h3>
 <p style="margin: 10px 0 0 0; opacity: 0.9;">Let's collaborate on innovative solutions that transform data into business value.</p>
 </div>
@@ -175,6 +175,6 @@ Docker Swarm • Automation • Scalable Infrastructure
 
 ---
 
-<div align="center" style="margin-top: 40px; color: #6c757d; font-size: 0.9em;">
+<div align="center" style="margin-top: 40px; color: #8b949e; font-size: 0.9em;">
 *"Transforming complex challenges into elegant digital solutions — one line of code at a time."*
 </div>
