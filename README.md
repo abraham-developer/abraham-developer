@@ -49,9 +49,9 @@ I’m constantly experimenting with:
 
 ## 📈 GitHub stats  
 
-![Abraham’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrahamrivera&show_icons=true&theme=radical&hide_border=true)  
+![Abraham’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamrivera&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -70,9 +70,8 @@ I’m constantly experimenting with:
 
 ## 📬 Get in touch  
 
-- **LinkedIn**: <https://linkedin.com/in/abrahamrivera>  
-- **Twitter**: <https://twitter.com/abrahamrivera>  
-- **Email**: <abraham.rivera@email.com>  
+- **LinkedIn**: <https://linkedin.com/in/angel-abraham-rivera-2aa977331>  
+- **Email**: <desarrollo@abrahamdev.net>  
 
 Feel free to open an issue, send a PR, or just say hello!  
 
