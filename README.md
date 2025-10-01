@@ -64,7 +64,6 @@ I’m constantly experimenting with:
 | **React‑TS Dashboard** | Real‑time analytics dashboard with lazy‑loaded modules, Redux Toolkit state management and dark‑mode support. | React, TypeScript, Redux Toolkit, Chart.js |
 | **Angular‑E‑Commerce** | Full‑stack e‑commerce prototype with JWT auth, Stripe integration and server‑side rendering (SSR). | Angular, .NET Core, SQL Server |
 
-*(You can pin the projects you want to showcase on your GitHub profile → “Customize your pins”)*
 
 ---
 
