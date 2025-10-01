@@ -1,9 +1,9 @@
 # 👋 Hi, I’m **Abraham Rivera**  
 **Software Engineer • Full‑Stack • Cloud‑Native • AI‑Enabled**
 
-[![GitHub followers](https://img.shields.io/github/followers/abrahamrivera?label=Followers&style=social)](https://github.com/abrahamrivera)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/abrahamrivera)
-[![Twitter](https://img.shields.io/twitter/follow/abrahamrivera?style=social)](https://twitter.com/abrahamrivera)
+[![GitHub followers](https://img.shields.io/github/followers/abraham-developer?label=Followers&style=social)](https://github.com/abraham-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
+
 
 ---
 
