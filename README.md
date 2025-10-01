@@ -63,14 +63,18 @@ My expertise bridges **.NET Core** and **Go** microservices with modern **React+
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Abraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=45,ff6b6b,4ecdc4,45aaf2&title_color=fff&text_color=fff&icon_color=fff)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=45,ff6b6b,4ecdc4,45aaf2&title_color=fff&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia&hide_title=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=abraham-developer&theme=radical&hide_border=true&background=linear-gradient(45deg,ff6b6b,4ecdc4,45aaf2)&dates=fff&fire=FF0000&ring=FF0000)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&hide_border=true&theme=algolia&hide_title=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="28%" />
 
+<img src="https://streak-stats.demolab.com/?user=abraham-developer&theme=algolia&hide_border=true&background=00000000&dates=2E3440&fire=FF6B6B&ring=4ECDC4" alt="GitHub Streak" width="20%" />
+
+</div>
+
+<div align="center" style="margin-top: 10px;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abraham-developer&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=4ECDC4" alt="Activity Graph" width="90%" />
 </div>
 
 ---
