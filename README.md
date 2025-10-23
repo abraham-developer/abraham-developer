@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/angel-abraham-rivera-2aa977331">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:desarrollo@abrahamdev.net">
+  <a href="mailto:abrahamdeveloperc@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -161,7 +161,7 @@ Docker Swarm • Automation • Scalable Infrastructure
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 25px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:desarrollo@abrahamdev.net)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahamdeveloperc@gmail.com)
 [![GitHub](https://img.shields.io/badge/View_Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abraham-developer)
 
 </div>
