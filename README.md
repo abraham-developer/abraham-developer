@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Abraham Rivera
+#  Abraham Rivera
 
-### 🚀 Backend Engineer | Go • PostgreSQL • TypeScript • AWS
+###  Backend Engineer | Go • PostgreSQL • TypeScript • AWS
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cubeark.dev-4ECDC4?style=for-the-badge&logo=web&logoColor=white)](https://cubeark.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 🪄 Tech Wizardry
+##  Tech Wizardry
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## 📊 Magic Numbers
+##  Numbers
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=8b949e)
 
