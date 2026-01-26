@@ -1,29 +1,55 @@
-# 👋 Hi, I'm Abraham Rivera
+<div align="center">
 
-**Backend Engineer** specializing in Go, PostgreSQL, TypeScript & AWS  
-📍 Mexico
+# ✨ Abraham Rivera
 
----
+### 🚀 Backend Engineer | Go • PostgreSQL • TypeScript • AWS
 
-## 🛠️ Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-cubeark.dev-4ECDC4?style=for-the-badge&logo=web&logoColor=white)](https://cubeark.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamdeveloperc@gmail.com)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+</div>
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-![Abraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=4ECDC4)
+## 🪄 Tech Wizardry
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ECDC4)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)
+
+</div>
 
 ---
 
-## 📫 Connect
+<div align="center">
 
-[Portfolio](https://cubeark.dev) • 
-[LinkedIn](https://linkedin.com/in/angel-abraham-rivera-2aa977331) • 
-[Email](mailto:abrahamdeveloperc@gmail.com)
+## 📊 Magic Numbers
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=8b949e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=8b949e)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Let's Create Magic
+
+**Building scalable backends with Go and cloud-native architectures**
+
+[![Portfolio](https://img.shields.io/badge/✨_Visit_Portfolio-FF6B6B?style=flat-square&logo=sparkles&logoColor=white)](https://cubeark.dev)
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
+
+</div>
+
+<div align="center">
+
+⭐ *Turning complex problems into elegant solutions*
+
+</div>
