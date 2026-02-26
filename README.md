@@ -1,8 +1,7 @@
 <div align="center">
 
-#  Abraham Rivera
-
-###  Backend Engineer | Go • PostgreSQL • TypeScript • AWS
+# Abraham Rivera
+### Backend Engineer | Go • PostgreSQL • TypeScript • AWS
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cubeark.dev-4ECDC4?style=for-the-badge&logo=web&logoColor=white)](https://cubeark.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
@@ -14,7 +13,7 @@
 
 <div align="center">
 
-##  Tech Wizardry
+## Tech Wizardry
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
@@ -27,11 +26,11 @@
 
 <div align="center">
 
-##  Numbers
+## Numbers
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=8b949e)
+<img src="https://github-readme-stats.vercel.app/api?username=abraham-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=8b949e&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=8b949e)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-developer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=8b949e&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -43,12 +42,8 @@
 
 **Building scalable backends with Go and cloud-native architectures**
 
-[![Portfolio](https://img.shields.io/badge/✨_Visit_Portfolio-FF6B6B?style=flat-square&logo=sparkles&logoColor=white)](https://cubeark.dev)
+[![Portfolio](https://img.shields.io/badge/✨_Visit_Portfolio-FF6B6B?style=flat-square&logoColor=white)](https://cubeark.dev)
 [![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-abraham-rivera-2aa977331)
-
-</div>
-
-<div align="center">
 
 ⭐ *Turning complex problems into elegant solutions*
 
